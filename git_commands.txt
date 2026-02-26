@@ -1,0 +1,9 @@
+ls -a
+git status
+git add testing.py
+git status
+git commit -m "adding testing files"
+git config --global user.name "Vaishali Mathur  
+git config --global user.name "Vaishali Mathur" 
+clear
+history
